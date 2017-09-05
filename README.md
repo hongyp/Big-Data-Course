@@ -20,19 +20,19 @@ The course GitHub (for all lectures, assignments and projects).
 * INFO 7390 - Advances in Data Sciences and Architecture
 
 
-CSYE 7245. Big-Data Systems and Intelligence Analytics   
-W 6:00 - 9:30pm
-Dodge Hall 150
+CSYE 7245. Big-Data Systems and Intelligence Analytics     
+W 6:00 - 9:30pm   
+Dodge Hall 150   
 	
 	
-INFO 7390. Sec 01 Advances in Data Sciences and Architecture
-T 11:45AM-1:25PM    
-R 2:50-4:30PM
-Forsyth Building 129
+INFO 7390. Sec 01 Advances in Data Sciences and Architecture   
+T 11:45AM-1:25PM     
+R 2:50-4:30PM   
+Forsyth Building 129   
 
-INFO 7390. Sec 02 Advances in Data Sciences and Architecture
-MWR 9:15-10:20AM 
-Cargill Hall 094
+INFO 7390. Sec 02 Advances in Data Sciences and Architecture   
+MWR 9:15-10:20AM    
+Cargill Hall 094    
 
 
 ## Prerequisites
