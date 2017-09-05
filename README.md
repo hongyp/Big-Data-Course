@@ -41,3 +41,11 @@ Some python
 
 * [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 * [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
+
+
+## Course GitHub
+
+The course GitHub (for all lectures, assignments and projects):
+
+* [https://github.com/nikbearbrown/NEU_COE](https://github.com/nikbearbrown/NEU_COE)  
+
