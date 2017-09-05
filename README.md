@@ -1,13 +1,12 @@
-# Courses - College of Engineering
+# Courses - College of Engineering   
 
-Nik Bear Brown, PhD
-Assistant Teaching Professor
-College of Engineering
-Northeastern University
+Nik Bear Brown, PhD    
+Assistant Teaching Professor    
+College of Engineering    
+Northeastern University    
 
-Research Fellow
-Harvard University
-
+Research Fellow   
+Harvard University    
 
 
 ## Description
